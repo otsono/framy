@@ -1,0 +1,13 @@
+{
+  "export": true,
+  "guid": "361e5c66-8a10-4e91-b5e0-c6962c8e0dd6",
+  "id": "charactertemplateNspecProjectileHitboxStats",
+  "language": "hscript",
+  "pluginMetadata": {
+  },
+  "plugins": [
+  ],
+  "tags": [
+  ],
+  "version": 1
+}

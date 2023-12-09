@@ -1,0 +1,13 @@
+{
+  "export": true,
+  "guid": "7ce0d9e9-f026-40db-92fd-a4417a8e6c4a",
+  "id": "lightattack1",
+  "pluginMetadata": {
+  },
+  "plugins": [
+    "com.fraymakers.FraymakersMetadata"
+  ],
+  "tags": [
+  ],
+  "version": 1
+}
